@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
+.imagem img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 2.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 24px auto 28px;
+    padding: 24px;
+    background-color: #F0E8C2;
+    font-family: "Alice", serif;
+    border-radius: 2.5%;
+
+}
+
+
+:root {
+    font-size: medium;
+    color: #291B1A;
+}
+
+h1 {
+    padding: 24px;
+    text-shadow: 3px 3px 5px rgba(41, 27, 26, 0.5);
+
+}
+
+h3 {
+    padding:10px;
+    color:#573A37;
+    text-shadow: 3px 3px 5px rgba(41, 27, 26, 0.2);
+}
+
+p {
+    padding:10px;
+    color:#573A37;
+    text-shadow: 3px 3px 5px rgba(41, 27, 26, 0.2);
+}
+
+li {
+    color:#573A37;
+    text-shadow: 3px 3px 5px rgba(41, 27, 26, 0.2);
+    margin-left: 40px; 
+}
+
+body {
+    background-image:url(bg-image.png) ;
+    background-size: cover;
+    background-color: #573A37;
+}
+
+footer p {
+    color: #F0E8C2;
+    text-align: center;
+}
+
+
+
